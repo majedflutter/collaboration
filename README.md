@@ -4,4 +4,4 @@
 # I AM REMOVEING ALL OF THIS MAIN BRANCH ELEMENT AND 
 # THIS IS THE NOT COPY OF MAIN BRANCH AND HOW IT WORKS
 >>>>>>> main
->>>>>>> Hi i am majeddul islam i am knowing about conflict of merge and how it is solve
+>>>>>>> how merge conflict happening i show
